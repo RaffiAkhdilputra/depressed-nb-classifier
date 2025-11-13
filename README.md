@@ -32,7 +32,7 @@ It combines text preprocessing, feature extraction with TF-IDF, and probabilisti
     
     ├── dataset/ # dataset (cleaned Reddit depression dataset)
     ├── notebooks/ # Jupyter/Colab notebooks for experimentation
-    ├── models/ # saved model (.pkl) and vectorizer
+    ├── model/ # saved model (.pkl) and vectorizer
     ├── src/ # Python scripts (if modularized)
     ├── README.md # project documentation
     └── requirements.txt # dependencies
