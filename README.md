@@ -30,7 +30,7 @@ It combines text preprocessing, feature extraction with TF-IDF, and probabilisti
 
 ## Project Structure 
     
-    ├── data/ # dataset (cleaned Reddit depression dataset)
+    ├── dataset/ # dataset (cleaned Reddit depression dataset)
     ├── notebooks/ # Jupyter/Colab notebooks for experimentation
     ├── models/ # saved model (.pkl) and vectorizer
     ├── src/ # Python scripts (if modularized)
