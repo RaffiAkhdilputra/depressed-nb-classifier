@@ -76,4 +76,4 @@ if st.button("Analyze Text"):
 
 # Footer
 st.markdown("---")
-st.caption("Built with Streamlit & Scikit-Learn | Naive Bayes Classifier")
+st.caption("Raffi Akhdilputra | Built with Streamlit & Scikit-Learn | Naive Bayes Classifier")
