@@ -6,6 +6,8 @@ The model was trained on Reddit posts to classify whether a text indicates signs
 
 It combines text preprocessing, feature extraction with TF-IDF, and probabilistic classification to achieve high accuracy in mental health–related content analysis.
 
+Visit streamlit app: https://depressed-classifier.streamlit.app/
+
 ---
 
 ## Features  
